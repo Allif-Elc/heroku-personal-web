@@ -7,7 +7,7 @@ const dbPool = new Pool({
     // password: 'root' 
 
 connectionString:
-    'postgres://qdakqaiqftnpxa:ebf309ea92e62c13261efb25eaabedadd675a73832a4284f1b8378ca194d2b7c@ec2-52-70-205-234.compute-1.amazonaws.com:5432/d30kevraq8pmfn',
+    'postgres://bayryxrtjdffax:2c4c79a03e645f4cbb2d74e9acd597de8e27949f5c2abc03abf92d52e2135b75@ec2-52-70-205-234.compute-1.amazonaws.com:5432/dce79o9e19k7dn',
 ssl: {
     rejectUnauthorized: false,
 }
